@@ -1,4 +1,4 @@
-# buildspace os
+# chromeland
 
 ## setup
 ### you don't need to write any code or know how to code to set this up. It will take 2 mins max — promise
@@ -30,4 +30,4 @@ now you can see this thing in action! Open a new tab and you'll notice that ther
 ![](https://i.imgur.com/UtvBBmW.png)
 
 ## got questions?
-for any questions please send an email to support@buildspace.so
+for any questions please send an email to ask.codexhimanshu@gmail.com

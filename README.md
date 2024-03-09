@@ -1,4 +1,5 @@
 # Chromeland - The homepage you deserve!
+### 🔴 discontinued :)
 
 ## Setup
 

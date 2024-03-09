@@ -24,5 +24,11 @@ once you select it you should see this (great you did it!)<br>
 now you can see this thing in action! Open a new tab and you'll notice that there is a prompt saying that the page was changed by the chromeland extension. **Make sure to select keep it or it will not work.**<br>
 ![](https://github.com/gabbar-singhh/chromeland-extension/assets/110885026/3895fdfc-6df0-4120-b65a-83864b3b06a4)
 
+## Demo
+
+Add notes, todos, pomodoro timer and much more from your homepage!
+
+[demo video](https://github.com/gabbar-singhh/chromeland-extension/assets/110885026/d1361852-4fce-4849-9761-03899c708a71)
+
 ## got questions?
 for any questions please send an email to ask.codexhimanshu@gmail.com

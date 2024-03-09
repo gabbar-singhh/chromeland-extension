@@ -30,5 +30,10 @@ Add notes, todos, pomodoro timer and much more from your homepage!
 
 [demo video](https://github.com/gabbar-singhh/chromeland-extension/assets/110885026/d1361852-4fce-4849-9761-03899c708a71)
 
+## Few Screenshots
+
+![](https://github.com/gabbar-singhh/chromeland-extension/assets/110885026/3756f08a-99a7-457a-9a8b-1cc37ea67952)
+![](https://github.com/gabbar-singhh/chromeland-extension/assets/110885026/2ac3c499-34b5-4b48-ad51-7a57040a3c1e)
+
 ## got questions?
 for any questions please send an email to ask.codexhimanshu@gmail.com
